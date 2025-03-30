@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá! eu sou o Victor Daniel
 
-<!--
-**victordn620/victordn620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje estou cursando Sistema de Informação 1/8
+- 🌱 Estudando Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordn620&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordn620&layout=compact&langs_count=6&theme=dark"/>
+</div>
+<div style="display inline_block"><br>
+  <img align="center" alt="victor-Java" heigt="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="victor-TypeScript" heigt="30px" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</div>
+
+## 
+<div>
+  <a href="https://www.linkedin.com/in/victor-daneil-bezerra-da-silva-a1a956323/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:victordaneibezerradasilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
