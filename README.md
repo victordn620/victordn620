@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou cursando Sistema de Informação 1/8
-- 🌱 Estudando Java
+- 🌱 Estudando React
 
 <div>
  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=victordn620&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,6 @@
 </div>
 
 <div style="display inline_block"><br>
-  <img align="center" alt="victor-Java" heigt="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="victor-TypeScript" heigt="30px" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 
