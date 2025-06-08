@@ -1,7 +1,7 @@
 ## Olá! eu sou o Victor Daniel
 
 
-- 🔭 Hoje estou cursando Sistema de Informação 1/8
+- 🔭 Estou cursando Sistema de Informação 1/8
 - 🌱 Estudando React
 
 <div>
@@ -17,6 +17,7 @@
 <div>
   <a href="https://www.linkedin.com/in/victor-daneil-bezerra-da-silva-a1a956323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   </a>
   <a href="mailto:victordaneibezerradasilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
