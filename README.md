@@ -10,6 +10,7 @@
 </div>
 
 <div style="display inline_block"><br>
+  <img align="center" alt="victor-Html" heigt="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="victor-TypeScript" heigt="30px" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="victor-React" heigt="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
