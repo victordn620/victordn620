@@ -1,7 +1,7 @@
 ## Olá! eu sou o Victor Daniel
 
 
-- 🔭 Cursando Sistema de Informação 1/8
+- 🔭 Cursando Sistema de Informação 2/8
 - 🌱 Estudando React
 
 <div>
